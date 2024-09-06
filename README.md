@@ -1,5 +1,5 @@
 - @deetherockstar
-- not a dev
+- not a dev (yet)
 - just learning
 <!---
 deetherockstar/deetherockstar is a special repository because its `README.md` (this file) appears on your GitHub profile.
